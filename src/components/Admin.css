@@ -1,0 +1,48 @@
+.input {
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    background-color: antiquewhite;
+}
+
+.label {
+    margin:  10px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+}
+
+.submit-btn {
+    background-color: rgb(0, 179, 0);
+    border: 0cap;
+    border-color: green;
+    color: white;
+    border-radius: 5px;
+
+}
+
+.delete-btn {
+    background-color: red;
+    color: white;
+    border: 0cap;
+    border-radius: 5px;
+}
+
+.products {
+    background-color: antiquewhite;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.total_worth {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
